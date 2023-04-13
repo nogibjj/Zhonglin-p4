@@ -1,4 +1,4 @@
-# Zhonglin Project3 Microservice API Rust
+# Zhonglin Project4 Microservice API Rust
 
 ## Key Objectives of Project
 In project 3, I developped a microservice using wikipedia API on Rust. 
